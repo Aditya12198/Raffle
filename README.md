@@ -1,1 +1,1 @@
-"# Raffle" 
+Raffle smart contract on solidity
